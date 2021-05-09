@@ -5,3 +5,6 @@ Hey Welcome to my project. Project is a market of fruits. Project is a very simp
 # Trello
 https://trello.com/b/6t0irR1N/finalproject
 ![Снимок экрана (140)](https://user-images.githubusercontent.com/72734736/117585506-91f37780-b134-11eb-96c1-9280988ac140.png)
+
+# Figma
+https://www.figma.com/file/OG5qWwK3iOoAIOBAu4kECV/Untitled?node-id=1%3A10
