@@ -8,3 +8,4 @@ https://trello.com/b/6t0irR1N/finalproject
 
 # Figma
 https://www.figma.com/file/OG5qWwK3iOoAIOBAu4kECV/Untitled?node-id=1%3A10
+![Снимок экрана (141)](https://user-images.githubusercontent.com/72734736/117585981-45f60200-b137-11eb-826f-68f9d828e3e2.png)
